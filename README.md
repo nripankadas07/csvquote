@@ -5,7 +5,7 @@ Zero-dependency Python library for RFC-4180 CSV field quoting/unquoting plus sin
 ## Install
 
 ```bash
-pip install csvquote
+python -m pip install -e .
 ```
 
 Requires Python 3.10+. No runtime dependencies.
